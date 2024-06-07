@@ -1,10 +1,10 @@
 # Hello!
 
-I'm darkpixlz. I'm a full stack developer and UI/UX designer. I have experience in Roblox and Unreal Engine.
+I'm darkpixlz. I'm a full stack developer and UI/UX designer. I have experience in Roblox Studio and Unreal Engine.
 
 While I don't have that many projects on here for the public (just yet), I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
 
-[![Discord](https://img.shields.io/badge/darkpixlz-discord?style=for-the-badge&logo=discord&logoColor=%23fff&color=%230066cc)](https://discord.com/users/449950252397494274) [![Twitter](https://img.shields.io/badge/darkpixlz-twitter?style=for-the-badge&logo=twitter&logoColor=%23fff&color=%2300ccff)](https://twitter.com/darkpixlz) [![DevForum](https://img.shields.io/badge/darkpixlz-devforum?style=for-the-badge&logo=roblox%20studio&logoColor=%23fff&color=%233333ff)](https://devforum.roblox.com/u/darkpixlz)
+[![Discord](/Discord.svg)](https://discord.com/users/449950252397494274)[![Twitter](/Twitter.svg](https://twitter.com/darkpixlz)[![DevForum](/DevForum.svg](https://devforum.roblox.com/u/darkpixlz)
 
 ## Active Websites
 
