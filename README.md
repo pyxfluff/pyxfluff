@@ -4,7 +4,7 @@ I'm darkpixlz. I'm a full stack developer and UI/UX designer. I have experience 
 
 While I don't have that many projects on here for the public (just yet), I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
 
-[![Discord](/Discord.svg)](https://discord.com/users/449950252397494274)[![Twitter](/Twitter.svg](https://twitter.com/darkpixlz)[![DevForum](/DevForum.svg](https://devforum.roblox.com/u/darkpixlz)
+[![Discord](/Discord.svg)](https://discord.com/users/449950252397494274)[![Twitter](/Twitter.svg)](https://twitter.com/darkpixlz)[![DevForum](/DevForum.svg)](https://devforum.roblox.com/u/darkpixlz)
 
 ## Active Websites
 
