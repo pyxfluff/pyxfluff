@@ -68,7 +68,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://administer.notpyx.me
           plugin_repositories: yes
-          plugin_repositories_featured: pyxfluff/administer pyxfluff/administerappserver pyxfluff/codelet pyxfluff/moderntheme
+          plugin_repositories_featured: pyxfluff/administer, pyxfluff/administerappserver, pyxfluff/codelet, pyxfluff/moderntheme
           plugin_repositories_order: featured, pinned, starred, random
           #plugin_steam: yes
           #plugin_steam_achievements_limit: 10
