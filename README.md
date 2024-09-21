@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg">
 </div>
 
-<div align="left">
+<div align="left" width="55%">
     I'm Pyx, a full stack developer in 5+ languages and UI/UX designer. I have experience in Roblox Studio and Unreal Engine.
 
     I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
