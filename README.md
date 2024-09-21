@@ -14,6 +14,6 @@ https://codelet.codes/
 https://notpyx.me/ <sup>todo</sup>
 https://administer.notpyx.me/ <sup>frontend also soon:tm:</sup>
 
-![Metrics](https://raw.githubusercontent.com/pyxfluff/pyxfluff/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg)
 
 ![Stats](https://readme.iipython.dev/api?username=pyxfluff)
