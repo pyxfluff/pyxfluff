@@ -70,10 +70,10 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: pyxfluff/administer pyxfluff/administerappserver pyxfluff/codelet pyxfluff/moderntheme
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 10
-          plugin_steam_games_limit: 3
-          plugin_steam_playtime_threshold: 5
-          plugin_steam_recent_games_limit: 5
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561199008410428
+          #plugin_steam: yes
+          #plugin_steam_achievements_limit: 10
+          #plugin_steam_games_limit: 3
+          #plugin_steam_playtime_threshold: 5
+          #plugin_steam_recent_games_limit: 5
+          #plugin_steam_sections: player, most-played, recently-played
+          #plugin_steam_user: 76561199008410428
