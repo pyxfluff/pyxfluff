@@ -7,19 +7,13 @@
 
 <div align="left" width="55%">
     I'm Pyx, a full stack developer in 5+ languages and UI/UX designer. I have experience in Roblox Studio and Unreal Engine.
-
     I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
-
     [![Discord](SVGs/Discord.svg)](https://discord.com/users/449950252397494274)[![Twitter](SVGs/Twitter.svg)](https://twitter.com/pyxfluff)[![DevForum](SVGs/DevForum.svg)](https://devforum.roblox.com/u/pyxfluff)
-
     ## Active Websites
-
     Currently, I run the following websites:
-
     https://codelet.codes/ <p></p> <br>
     https://notpyx.me/ <sup>todo</sup> <br>
     https://administer.notpyx.me/ <sup>frontend also soon:tm:</sup> <br>
-
 </div>
 
 ## Other noteworthy stuff
