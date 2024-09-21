@@ -1,21 +1,25 @@
 # Hello!
 
 <img src="https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg" align="right" width="45%">
+<img src="https://github.com/pyxfluff/pyxfluff/blob/main/pixelz.png?raw=true" align="right" width="45%">
 
 I'm Pyx, a full stack developer in 5+ languages and UI/UX designer. I have experience in Roblox Studio and Unreal Engine.
 
-While I don't have that many projects on here for the public (just yet), I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
+I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
 
-[![Discord](/Discord.svg)](https://discord.com/users/449950252397494274)[![Twitter](/Twitter.svg)](https://twitter.com/pyxfluff)[![DevForum](/DevForum.svg)](https://devforum.roblox.com/u/pyxfluff)
+[![Discord](SVGs/Discord.svg)](https://discord.com/users/449950252397494274)[![Twitter](SVGs/Twitter.svg)](https://twitter.com/pyxfluff)[![DevForum](/DevForum.svg)](https://devforum.roblox.com/u/pyxfluff)
 
 ## Active Websites
 
 Currently, I run the following websites:
 
-https://codelet.codes/
-https://notpyx.me/ <sup>todo</sup>
-https://administer.notpyx.me/ <sup>frontend also soon:tm:</sup>
+https://codelet.codes/ <p></p> <br>
+https://notpyx.me/ <sup>todo</sup> <br>
+https://administer.notpyx.me/ <sup>frontend also soon:tm:</sup> <br>
 
-https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg
+## Other noteworthy stuff
 
-![Stats](https://readme.iipython.dev/api?username=pyxfluff)
+I [love listening to music](https://www.last.fm/user/pyxfluff). Roughly 300 albums and counting. Some artists I really like in specific are Nothing but Thieves and Everything Everything.
+I started programming in 2017 with Roblox and have long since expanded to programming with other things.
+
+Thanks for checking my profile out! Please don't have a stroke at how I format my code.
