@@ -1,6 +1,6 @@
 # Hello!
 
-<img src="https://github.com/pyxfluff/pyxfluff/blob/main/pixelz.png?raw=true" align="right" width="45%"> <br>
+<img src="https://github.com/pyxfluff/pyxfluff/blob/main/pixelz.png?raw=true" align="right" width="45%" height="20%"> <br>
 <img src="https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg" align="right" width="45%">
 
 I'm Pyx, a full stack developer in 5+ languages and UI/UX designer. I have experience in Roblox Studio and Unreal Engine.
