@@ -1,5 +1,7 @@
 # Hello!
 
+<img src="https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg" align="right" width="45%">
+
 I'm Pyx, a full stack developer in 5+ languages and UI/UX designer. I have experience in Roblox Studio and Unreal Engine.
 
 While I don't have that many projects on here for the public (just yet), I'm experienced in Lua, Python, JavaScript, and HTML. Need to reach me? Do it via my Twitter or Discord.
@@ -14,6 +16,6 @@ https://codelet.codes/
 https://notpyx.me/ <sup>todo</sup>
 https://administer.notpyx.me/ <sup>frontend also soon:tm:</sup>
 
-![Metrics](https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg)
+https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg
 
 ![Stats](https://readme.iipython.dev/api?username=pyxfluff)
