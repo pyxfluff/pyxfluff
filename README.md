@@ -15,7 +15,7 @@ Currently, I run the following websites:
 https://codelet.codes/ <br>
 https://notpyx.me/ <sup>todo</sup> <br>
 https://administer.notpyx.me/ <sup>frontend also soon:tm:</sup> <br>
-https://ntatus.notpyx.me/ <br>
+https://status.notpyx.me/ <br>
 
 
 ## Other noteworthy stuff
