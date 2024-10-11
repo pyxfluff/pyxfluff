@@ -67,15 +67,12 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: pyxfluff
+          plugin_music_token: {{ secrets.MUSIC_TOKEN }}
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://administer.notpyx.me
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 150
           plugin_stars: yes
           plugin_stars_limit: 4
