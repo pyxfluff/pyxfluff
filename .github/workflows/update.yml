@@ -60,7 +60,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_music: yes
-          plugin_music_limit: 4
+          plugin_music_limit: 10
           plugin_music_mode: recent
           plugin_music_played_at: yes
           plugin_music_provider: lastfm
@@ -73,7 +73,7 @@ jobs:
           plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://administer.notpyx.me
+          plugin_pagespeed_url: https://notpyx.me
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 4
