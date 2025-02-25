@@ -6,7 +6,7 @@
 
 I'm Pyx, a full stack developer in 5+ languages and UI/UX designer. I mainly program in Lua, Python, TypeScript, and HTML + SASS (yes HTML is programming). 
 
-Aside from being a poor attempt at a software enginner I am a game developer in Roblox and Unreal.
+Aside from being a poor attempt at a software engineer I am a game developer in Roblox and Unreal.
 
 
 ## Active Websites
