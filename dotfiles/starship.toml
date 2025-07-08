@@ -1,0 +1,85 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+format = "$sudo$directory$nodejs$python$ruby$bun$php$lua$golang$java$rust$git_branch$package\n$username$hostname $memory_usage $cmd_duration $character"
+
+[character]
+success_symbol = ">"
+error_symbol = " > "
+
+[directory]
+format = "[$path]($style) with "
+
+[cmd_duration]
+format = "in [$duration]($style)"
+show_milliseconds = true
+min_time = 0
+
+[sudo]
+disabled = false
+format = "  "
+
+[package]
+symbol = " "
+
+[memory_usage]
+disabled = false
+threshold = 0
+format = '{$ram_pct}'
+
+[hostname]
+ssh_only = false
+format ="[$ssh_symbol$hostname]($style)"
+
+[username]
+show_always = true
+format = "[$user]($style)@"
+
+# Languages
+[python]
+symbol = " "
+format = "[$symbol ($version )]($style)"
+version_format = "${raw}"
+
+[nodejs]
+symbol = " "
+format = "[$symbol ($version )]($style)"
+version_format = "${raw}"
+
+[java]
+symbol = " "
+format = "[$symbol ($version )]($style)"
+version_format = "${raw}"
+
+[git_branch]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[ruby]
+symbol = " "
+
+[kubernetes]
+symbol = "☸ "
+
+[aws]
+symbol = " "
+
+[haskell]
+symbol = " "
+
+[terraform]
+symbol = " "
+
+[php]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[swift]
+symbol = " "
+
+[bun]
+symbol = "  "
+
