@@ -1,7 +1,8 @@
 # Hello!
 
 <img src="https://raw.githubusercontent.com/pyxfluff/pyxfluff/refs/heads/main/github-metrics.svg" align="right" width="45%">
-<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=pyx&api_domain=waka.pyxfluff.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+7+Days%29&layout=compact" align="right" width="45%"> <br />
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=pyx&api_domain=waka.pyxfluff.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Waka.pyxfluff.dev.dev+Stats+%28Last+7+Days%29&layout=compact" align="right" width="45%"> 
+<br />
 
 [![Discord](SVGs/Discord.svg)](https://discord.com/users/449950252397494274)[![Bluesky](SVGs/bsky.svg)](https://bsky.app/profile/pyxfluff.dev)[![DevForum](SVGs/DevForum.svg)](https://devforum.roblox.com/u/pyxfluff)
 
